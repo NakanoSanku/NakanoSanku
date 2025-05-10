@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PlayWright**
 
-- 📝 I regularly write articles on [blog.insider.baby](blog.insider.baby)
+- 📝 I regularly write articles on [blog.insider.baby](https://blog.insider.baby)
 
 - 💬 Ask me about **Python**
 
