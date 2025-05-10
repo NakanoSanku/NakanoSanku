@@ -16,11 +16,13 @@
 
 <h3 align="left">Support:</h3>
 <p>
+  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+  <br>
+  <br>
   <a href="https://ko-fi.com/katetseng">
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="katetseng" />
   </a>
 </p>
-<br>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakanosanku&show_icons=true&locale=en" alt="nakanosanku" /></p>
