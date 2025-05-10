@@ -15,11 +15,12 @@
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/katetseng"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="katetseng" /></a></p><br><br>
-
+<p><a href="https://ko-fi.com/katetseng"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="katetseng" /></a></p>
+<br>
+<br>
+<br>
 <span>
 <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NakanoSanku&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github"/>
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakanoSanku&locale=cn&line_height=33&theme=radical&langs_count=5&layout=compact"/>
 </span>
 
 
