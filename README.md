@@ -25,4 +25,6 @@
 </p>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakanosanku&show_icons=true&locale=en" alt="nakanosanku" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nakanosanku&show_icons=true&locale=en" alt="nakanosanku" />
+</p>
